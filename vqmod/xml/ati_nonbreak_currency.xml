@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<modification>
+	<id><![CDATA[Avoid Breaking Currency Simbol/Value in 2 lines]]></id>
+	<version>1.0</version>
+	<vqmver>2.1.5</vqmver>
+	<author>Renato Frota</author>
+	<file name="system/library/currency.php">
+		<operation error="log">
+			<search position="replace"><![CDATA[$string .= $symbol_left;]]></search>
+			<add><![CDATA[$string .= str_replace(" ","&nbsp;",$symbol_left);]]></add>
+		</operation>
+		<operation error="log">
+			<search position="replace"><![CDATA[$string .= $symbol_right;]]></search>
+			<add><![CDATA[$string .= str_replace(" ","&nbsp;",$symbol_right);]]></add>
+		</operation>
+	</file>
+</modification>

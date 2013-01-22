@@ -1,0 +1,529 @@
+***********************************************
+2012-12-27 19:15:43:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="0e4d232ac3f62b1601b419251387a509" versao="1.1.1">
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>12</numero>
+      <valor>1010</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-12-27T19:15:43</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.bemsexy.com.br/index.php?route=payment/cielo/retorno</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-12-27 19:15:44:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<erro xmlns="http://ecommerce.cbmp.com.br"><codigo>002</codigo><mensagem>Credenciais inválidas.</mensagem></erro>
+
+
+***********************************************
+2012-12-27 19:18:17:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="14a8ce83446d102402bc6602c0b99467" versao="1.1.1">
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>13</numero>
+      <valor>1010</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-12-27T19:18:17</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>mastercard</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.bemsexy.com.br/index.php?route=payment/cielo/retorno</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-12-27 19:18:18:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<erro xmlns="http://ecommerce.cbmp.com.br"><codigo>010</codigo><mensagem>O envio do cartão é obrigatório.</mensagem></erro>
+
+
+***********************************************
+2012-12-28 14:21:44:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="7f0b7ec64c575a579477421e90bb110a" versao="1.1.1">
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>15</numero>
+      <valor>1010</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-12-28T14:21:44</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.bemsexy.com.br/index.php?route=payment/cielo/retorno</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-12-28 14:21:44:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<erro xmlns="http://ecommerce.cbmp.com.br"><codigo>010</codigo><mensagem>O envio do cartão é obrigatório.</mensagem></erro>
+
+
+***********************************************
+2012-12-28 14:26:29:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="f2368f40c494f4fcd48cb726964352b6" versao="1.1.1">
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>16</numero>
+      <valor>1010</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-12-28T14:26:29</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>2</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.bemsexy.com.br/index.php?route=payment/cielo/retorno</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-12-28 14:26:31:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<erro xmlns="http://ecommerce.cbmp.com.br"><codigo>010</codigo><mensagem>O envio do cartão é obrigatório.</mensagem></erro>
+
+
+***********************************************
+2012-12-28 21:09:02:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="d355847d1e4b7fdbefee68c78719946a" versao="1.1.1">
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>28</numero>
+      <valor>1010</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-12-28T21:09:02</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.bemsexy.com.br/index.php?route=payment/cielo/retorno</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-12-28 21:09:03:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.1" id="d355847d1e4b7fdbefee68c78719946a" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10368411270000251001</tid>
+  <dados-pedido>
+    <numero>28</numero>
+    <valor>1010</valor>
+    <moeda>986</moeda>
+    <data-hora>2012-12-28T19:09:03.677-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=6e0a96ae117aae68ccddf30bfa375f07</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2012-12-28 21:12:14:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/retorno
+OPERAÇÃO: Consulta
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-consulta id="4e6ec8c0c1ac12727afce55caa5c0cd8" versao="1.1.1">
+   <tid>10368411270000251001</tid>
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+</requisicao-consulta>
+
+***********************************************
+2012-12-28 21:12:15:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/retorno
+OPERAÇÃO: Consulta
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.1" id="4e6ec8c0c1ac12727afce55caa5c0cd8" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10368411270000251001</tid>
+  <pan>OtPXmK7N+wcCmrjQbDhLRF/xt+Mip4wHp7ZbvymxxPE=</pan>
+  <dados-pedido>
+    <numero>28</numero>
+    <valor>1010</valor>
+    <moeda>986</moeda>
+    <data-hora>2012-12-28T19:09:03.677-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>6</status>
+  <autenticacao>
+    <codigo>6</codigo>
+    <mensagem>Autenticada com sucesso</mensagem>
+    <data-hora>2012-12-28T19:12:12.901-02:00</data-hora>
+    <valor>1010</valor>
+    <eci>5</eci>
+  </autenticacao>
+  <autorizacao>
+    <codigo>6</codigo>
+    <mensagem>Transação autorizada</mensagem>
+    <data-hora>2012-12-28T19:12:12.946-02:00</data-hora>
+    <valor>1010</valor>
+    <lr>00</lr>
+    <arp>114353</arp>
+    <nsu>000037</nsu>
+  </autorizacao>
+  <captura>
+    <codigo>6</codigo>
+    <mensagem>Transacao capturada com sucesso</mensagem>
+    <data-hora>2012-12-28T19:12:13.640-02:00</data-hora>
+    <valor>1010</valor>
+  </captura>
+</transacao>
+
+
+***********************************************
+2012-12-28 21:46:53:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="1c72d0ffd5d39cf8a8bd5eab4670adec" versao="1.1.1">
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>29</numero>
+      <valor>1010</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-12-28T21:46:53</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>A</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.bemsexy.com.br/index.php?route=payment/cielo/retorno</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-12-28 21:46:54:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.1" id="1c72d0ffd5d39cf8a8bd5eab4670adec" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>1036841127000026A001</tid>
+  <dados-pedido>
+    <numero>29</numero>
+    <valor>1010</valor>
+    <moeda>986</moeda>
+    <data-hora>2012-12-28T19:46:54.212-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>A</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=0b0a92c18e4ddf5d55c432d4f7e5935c</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2012-12-28 21:47:23:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/retorno
+OPERAÇÃO: Consulta
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-consulta id="887717bcd194792a0c6a08f8941f43a3" versao="1.1.1">
+   <tid>1036841127000026A001</tid>
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+</requisicao-consulta>
+
+***********************************************
+2012-12-28 21:47:24:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/retorno
+OPERAÇÃO: Consulta
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.1" id="887717bcd194792a0c6a08f8941f43a3" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>1036841127000026A001</tid>
+  <dados-pedido>
+    <numero>29</numero>
+    <valor>1010</valor>
+    <moeda>986</moeda>
+    <data-hora>2012-12-28T19:46:54.212-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>A</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>9</status>
+  <cancelamento>
+    <codigo>9</codigo>
+    <mensagem>Cancelamento solicitado pelo usuario</mensagem>
+    <data-hora>2012-12-28T19:47:22.910-02:00</data-hora>
+    <valor>1010</valor>
+  </cancelamento>
+</transacao>
+
+
+***********************************************
+2013-01-04 03:29:53:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="8e87fd33b8b1cbbecb0c0d2ba6aa4bcd" versao="1.1.1">
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>31</numero>
+      <valor>8990</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-01-04T03:29:53</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>2</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.bemsexy.com.br/index.php?route=payment/cielo/retorno</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+***********************************************
+2013-01-04 03:29:54:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.1" id="8e87fd33b8b1cbbecb0c0d2ba6aa4bcd" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10368411270000272002</tid>
+  <dados-pedido>
+    <numero>31</numero>
+    <valor>8990</valor>
+    <moeda>986</moeda>
+    <data-hora>2013-01-04T01:29:53.956-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>2</produto>
+    <parcelas>2</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=04afb2968df03006a5df12e26e284428</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2013-01-04 03:31:26:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/retorno
+OPERAÇÃO: Consulta
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-consulta id="6936e05c6fccfd3a4e5f39478195aab5" versao="1.1.1">
+   <tid>10368411270000272002</tid>
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+</requisicao-consulta>
+
+***********************************************
+2013-01-04 03:31:27:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/retorno
+OPERAÇÃO: Consulta
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.1" id="6936e05c6fccfd3a4e5f39478195aab5" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10368411270000272002</tid>
+  <dados-pedido>
+    <numero>31</numero>
+    <valor>8990</valor>
+    <moeda>986</moeda>
+    <data-hora>2013-01-04T01:29:53.956-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>2</produto>
+    <parcelas>2</parcelas>
+  </forma-pagamento>
+  <status>9</status>
+  <cancelamento>
+    <codigo>9</codigo>
+    <mensagem>Cancelamento solicitado pelo usuario</mensagem>
+    <data-hora>2013-01-04T01:31:26.527-02:00</data-hora>
+    <valor>8990</valor>
+  </cancelamento>
+</transacao>
+
+
+***********************************************
+2013-01-04 17:30:22:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="2b8996a2ad04174022d1e58ce6ad552e" versao="1.1.1">
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>35</numero>
+      <valor>9290</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-01-04T17:30:22</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.bemsexy.com.br/index.php?route=payment/cielo/retorno</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+***********************************************
+2013-01-04 17:30:23:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/processar
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.1" id="2b8996a2ad04174022d1e58ce6ad552e" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10368411270000281001</tid>
+  <dados-pedido>
+    <numero>35</numero>
+    <valor>9290</valor>
+    <moeda>986</moeda>
+    <data-hora>2013-01-04T15:30:23.572-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=489625475eba3424d810938705d34d2e</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2013-01-04 17:30:53:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/retorno
+OPERAÇÃO: Consulta
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-consulta id="3f992a134a9c79f91b213168c0aaa978" versao="1.1.1">
+   <tid>10368411270000281001</tid>
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+</requisicao-consulta>
+
+***********************************************
+2013-01-04 17:30:54:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/retorno
+OPERAÇÃO: Consulta
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.1" id="3f992a134a9c79f91b213168c0aaa978" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10368411270000281001</tid>
+  <dados-pedido>
+    <numero>35</numero>
+    <valor>9290</valor>
+    <moeda>986</moeda>
+    <data-hora>2013-01-04T15:30:23.572-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>9</status>
+  <cancelamento>
+    <codigo>9</codigo>
+    <mensagem>Cancelamento solicitado pelo usuario</mensagem>
+    <data-hora>2013-01-04T15:30:52.331-02:00</data-hora>
+    <valor>9290</valor>
+  </cancelamento>
+</transacao>
+
+

@@ -1,0 +1,132 @@
+**********************************************************
+256 ERRO NA TRANSACAO - 2012-12-27 19:15:44 (UTC)
+     ARQUIVO: /home/bemsexy/public_html/catalog/controller/payment/cielo_lib/includes/errorHandling.php(Linha 63)
+     MENSAGEM: 
+     Código do erro: 002
+     Mensagem: Credenciais inválidas.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="0e4d232ac3f62b1601b419251387a509" versao="1.1.1">
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>12</numero>
+      <valor>1010</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-12-27T19:15:43</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.bemsexy.com.br/index.php?route=payment/cielo/retorno</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2012-12-27 19:18:18 (UTC)
+     ARQUIVO: /home/bemsexy/public_html/catalog/controller/payment/cielo_lib/includes/errorHandling.php(Linha 63)
+     MENSAGEM: 
+     Código do erro: 010
+     Mensagem: O envio do cartão é obrigatório.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="14a8ce83446d102402bc6602c0b99467" versao="1.1.1">
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>13</numero>
+      <valor>1010</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-12-27T19:18:17</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>mastercard</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.bemsexy.com.br/index.php?route=payment/cielo/retorno</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+8 RUNTIME NOTICE - 2012-12-27 23:06:51 (UTC)
+     ARQUIVO: /home/bemsexy/public_html/catalog/controller/payment/cielo.php(Linha 38)
+     MENSAGEM: 
+Undefined index:  formaPagamento
+
+**********************************************************
+8 RUNTIME NOTICE - 2012-12-27 23:07:42 (UTC)
+     ARQUIVO: /home/bemsexy/public_html/catalog/controller/payment/cielo.php(Linha 38)
+     MENSAGEM: 
+Undefined index:  formaPagamento
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2012-12-28 14:21:44 (UTC)
+     ARQUIVO: /home/bemsexy/public_html/catalog/controller/payment/cielo_lib/includes/errorHandling.php(Linha 63)
+     MENSAGEM: 
+     Código do erro: 010
+     Mensagem: O envio do cartão é obrigatório.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="7f0b7ec64c575a579477421e90bb110a" versao="1.1.1">
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>15</numero>
+      <valor>1010</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-12-28T14:21:44</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.bemsexy.com.br/index.php?route=payment/cielo/retorno</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2012-12-28 14:26:31 (UTC)
+     ARQUIVO: /home/bemsexy/public_html/catalog/controller/payment/cielo_lib/includes/errorHandling.php(Linha 63)
+     MENSAGEM: 
+     Código do erro: 010
+     Mensagem: O envio do cartão é obrigatório.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="f2368f40c494f4fcd48cb726964352b6" versao="1.1.1">
+   <dados-ec>
+      <numero>1036841127</numero>
+      <chave>8baae820810d269863d2908121ec1042cbffbb556e00ec9827a6346074828952</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>16</numero>
+      <valor>1010</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-12-28T14:26:29</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>2</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.bemsexy.com.br/index.php?route=payment/cielo/retorno</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+

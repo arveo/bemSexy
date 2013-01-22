@@ -1,0 +1,23 @@
+2013-01-04 14:51:51 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-04 14:51:51 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-04 14:51:51 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-04 14:51:51 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-04 14:51:51 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-04 14:51:51 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-04 14:51:51 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-04 14:51:51 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-04 14:51:51 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-04 14:51:51 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-04 14:51:51 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-04 14:51:51 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-04 18:22:36 - PAC: CEP de destino invalido.
+2013-01-04 18:22:36 - Sedex: CEP de destino invalido.
+2013-01-04 18:22:36 - Sedex 10: CEP de destino invalido.
+2013-01-04 19:03:42 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-04 19:03:42 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-04 19:03:42 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-04 19:03:42 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-04 19:03:42 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-04 19:03:42 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-04 20:17:15 - PagSeguro: Parâmetros de notificação inválidos.
+2013-01-04 20:17:19 - PagSeguro: Parâmetros de notificação inválidos.

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<modification>
+	<id><![CDATA[Remove route=common/home from Store Home]]></id>
+	<version>1.0</version>
+	<vqmver>2.1.5</vqmver>
+	<author>Renato Frota</author>
+	<file name="catalog/controller/common/header.php">
+		<operation>
+			<search position="replace" error="log"><![CDATA[$this->data['home'] = $this->url->link('common/home');]]></search>
+			<add><![CDATA[$this->data['home'] = $this->url->link('main');]]></add>
+		</operation>
+	</file>
+	<file name="catalog/controller/common/seo_url.php">
+		<operation>
+			<search position="replace" error="log"><![CDATA[parse_str($url_data['query'], $data);]]></search>
+			<add><![CDATA[if (isset($url_data['query'])) { parse_str($url_data['query'], $data); }]]></add>
+		</operation>
+	</file>
+	<file name="system/library/url.php">
+		<operation>
+			<search position="replace" error="log"><![CDATA[$url .= 'index.php?route=' . $route;]]></search>
+			<add><![CDATA[      if ($route!='main') {
+         $url .= 'index.php?route=' . $route;
+      }]]></add>
+		</operation>
+		<operation>
+			<search position="replace" error="log"><![CDATA[$url .= str_replace('&', '&amp;', '&' . ltrim($args, '&'));]]></search>
+			<add><![CDATA[         if ($route=='main') {
+            $url .= str_replace('&', '&amp;', 'index.php?' . ltrim($args, '&'));
+         } else {
+            $url .= str_replace('&', '&amp;', '&' . ltrim($args, '&'));
+         }]]></add>
+		</operation>
+	</file>
+</modification>

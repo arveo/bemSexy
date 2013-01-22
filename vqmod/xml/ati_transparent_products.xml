@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<modification>
+	<id><![CDATA[Out of Stock "transparent" products (add to cart version) - Configure opacity in language/yourlang/ati/transparent_product.php]]></id>
+	<version>1.0</version>
+	<vqmver>2.1.5</vqmver>
+	<author>Renato Frota</author>
+	<file name="catalog/controller/product/category.php">
+		<operation error="abort">
+			<search position="after" index="1"><![CDATA[$this->language->load]]></search>
+			<add><![CDATA[$this->language->load('ati/transparent_products');
+			$this->data['ati_tp_addbutton_newtext'] = $this->language->get('ati_tp_addbutton_newtext');
+			$this->data['ati_tp_category_opacity'] = $this->language->get('ati_tp_category_opacity');]]></add>
+		</operation>
+		<operation error="abort">
+			<search position="after"><![CDATA[$this->data['products'][]]]></search>
+			<add><![CDATA[               'stock' => $result['quantity'],]]></add>
+		</operation>
+	</file>
+	<file name="catalog/controller/product/product.php">
+		<operation error="abort">
+			<search position="after" index="1"><![CDATA[$this->language->load]]></search>
+			<add><![CDATA[$this->language->load('ati/transparent_products');
+			$this->data['ati_tp_addbutton_newtext'] = $this->language->get('ati_tp_addbutton_newtext');
+			$this->data['ati_tp_product_opacity'] = $this->language->get('ati_tp_product_opacity');
+			$this->data['ati_tp_related_opacity'] = $this->language->get('ati_tp_related_opacity');]]></add>
+		</operation>
+		<operation error="abort">
+			<search position="after"><![CDATA[$this->data['products'][]]]></search>
+			<add><![CDATA[               'stock' => $result['quantity'],]]></add>
+		</operation>
+		<operation error="abort">
+			<search position="before"><![CDATA[$product_info['quantity']]]></search>
+			<add><![CDATA[$this->data['estoque'] = $product_info['quantity'];]]></add>
+		</operation>
+	</file>
+	<file name="catalog/controller/module/featured.php">
+		<operation error="abort">
+			<search position="after" index="1"><![CDATA[$this->language->load]]></search>
+			<add><![CDATA[$this->language->load('ati/transparent_products');
+			$this->data['ati_tp_addbutton_newtext'] = $this->language->get('ati_tp_addbutton_newtext');
+			$this->data['ati_tp_modules_opacity'] = $this->language->get('ati_tp_modules_opacity');]]></add>
+		</operation>
+		<operation error="abort">
+			<search position="after"><![CDATA[$this->data['products'][]]]></search>
+			<add><![CDATA[					'stock'   	 => $product_info['quantity'],]]></add>
+		</operation>
+	</file>
+	<file name="catalog/controller/module/special.php">
+		<operation error="abort">
+			<search position="after" index="1"><![CDATA[$this->language->load]]></search>
+			<add><![CDATA[$this->language->load('ati/transparent_products');
+			$this->data['ati_tp_addbutton_newtext'] = $this->language->get('ati_tp_addbutton_newtext');
+			$this->data['ati_tp_modules_opacity'] = $this->language->get('ati_tp_modules_opacity');]]></add>
+		</operation>
+		<operation error="abort">
+			<search position="after"><![CDATA[$this->data['products'][]]]></search>
+			<add><![CDATA[               'stock' => $result['quantity'],]]></add>
+		</operation>
+	</file>
+	<file name="catalog/controller/module/bestseller.php">
+		<operation error="abort">
+			<search position="after" index="1"><![CDATA[$this->language->load]]></search>
+			<add><![CDATA[$this->language->load('ati/transparent_products');
+			$this->data['ati_tp_addbutton_newtext'] = $this->language->get('ati_tp_addbutton_newtext');
+			$this->data['ati_tp_modules_opacity'] = $this->language->get('ati_tp_modules_opacity');]]></add>
+		</operation>
+		<operation error="abort">
+			<search position="after"><![CDATA[$this->data['products'][]]]></search>
+			<add><![CDATA[               'stock' => $result['quantity'],]]></add>
+		</operation>
+	</file>
+	<file name="catalog/controller/module/latest.php">
+		<operation error="abort">
+			<search position="after" index="1"><![CDATA[$this->language->load]]></search>
+			<add><![CDATA[$this->language->load('ati/transparent_products');
+			$this->data['ati_tp_addbutton_newtext'] = $this->language->get('ati_tp_addbutton_newtext');
+			$this->data['ati_tp_modules_opacity'] = $this->language->get('ati_tp_modules_opacity');]]></add>
+		</operation>
+		<operation error="abort">
+			<search position="after"><![CDATA[$this->data['products'][]]]></search>
+			<add><![CDATA[				'stock' => $result['quantity'],]]></add>
+		</operation>
+	</file>
+<!--
+	<file name="catalog/controller/module/ati_randomproducts.php">
+		<operation error="skip">
+			<search position="after" index="1"><![CDATA[$this->language->load]]></search>
+			<add><![CDATA[$this->language->load('ati/transparent_products');
+			$this->data['ati_tp_addbutton_newtext'] = $this->language->get('ati_tp_addbutton_newtext');
+			$this->data['ati_tp_modules_opacity'] = $this->language->get('ati_tp_modules_opacity');]]></add>
+		</operation>
+		<operation error="skip">
+			<search position="after"><![CDATA[$this->data['products'][]]]></search>
+			<add><![CDATA[				'stock' => $result['quantity'],]]></add>
+		</operation>
+	</file>
+-->
+	<file name="catalog/view/theme/*/template/module/*.tpl">
+		<operation error="skip">
+			<search position="replace" offset="1"><![CDATA[<?php foreach ($products as $product) { ?>]]></search>
+			<add><![CDATA[<?php foreach ($products as $product) { ?>
+    <div<?php echo (isset($product['stock']) ? ($product['stock'] <= 0 ? ' style="opacity:'.$ati_tp_modules_opacity.'"' : '') : ''); ?>>]]></add>
+		</operation>
+		<operation error="skip">
+			<search position="replace"><![CDATA[<?php echo $button_cart; ?>]]></search>
+			<add><![CDATA[<?php echo (isset($product['stock']) ? ($product['stock'] <= 0 ? $ati_tp_addbutton_newtext : $button_cart) : $button_cart); ?>]]></add>
+		</operation>
+	</file>
+	<file name="catalog/view/theme/*/template/product/category.tpl">
+		<operation error="log">
+			<search position="replace" offset="1"><![CDATA[<?php foreach ($products as $product) { ?>]]></search>
+			<add><![CDATA[<?php foreach ($products as $product) { ?>
+    <div<?php echo (isset($product['stock']) ? ($product['stock'] <= 0 ? ' style="opacity:'.$ati_tp_category_opacity.'"' : '') : ''); ?>>]]></add>
+		</operation>
+		<operation error="log">
+			<search position="replace"><![CDATA[<?php echo $button_cart; ?>]]></search>
+			<add><![CDATA[<?php echo (isset($product['stock']) ? ($product['stock'] <= 0 ? $ati_tp_addbutton_newtext : $button_cart) : $button_cart); ?>]]></add>
+		</operation>
+	</file>
+	<file name="catalog/view/theme/*/template/product/product.tpl">
+		<operation error="log">
+			<search position="replace" offset="1"><![CDATA[<?php foreach ($products as $product) { ?>]]></search>
+			<add><![CDATA[<?php foreach ($products as $product) { ?>
+    <div<?php echo (isset($product['stock']) ? ($product['stock'] <= 0 ? ' style="opacity:'.$ati_tp_related_opacity.'"' : '') : ''); ?>>]]></add>
+		</operation>
+		<operation error="log">
+			<search position="replace" index="1"><![CDATA[<?php echo $button_cart; ?>]]></search>
+			<add><![CDATA[<?php echo (isset($estoque) ? ($estoque <= 0 ? $ati_tp_addbutton_newtext : $button_cart) : $button_cart); ?>]]></add>
+		</operation>
+		<operation error="log">
+			<search position="replace" index="1"><![CDATA[<?php echo $button_cart; ?>]]></search>
+			<add><![CDATA[<?php echo (isset($product['stock']) ? ($product['stock'] <= 0 ? $ati_tp_addbutton_newtext : $button_cart) : $button_cart); ?>]]></add>
+		</operation>
+		<operation error="log">
+			<search position="replace"><![CDATA[<div class="product-info">]]></search>
+			<add><![CDATA[<div class="product-info"<?php echo (isset($estoque) ? ($estoque <= 0 ? ' style="opacity:'.$ati_tp_product_opacity.'"' : '') : ''); ?>>]]></add>
+		</operation>
+	</file>
+</modification>

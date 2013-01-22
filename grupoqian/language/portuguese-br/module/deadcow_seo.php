@@ -1,0 +1,26 @@
+<?php
+$_['heading_title'] = 'Auto-SEO 1.5';
+$_['text_success'] = 'Auto-SEO 1.5 Instalado com Successo!';
+$_['text_module'] = 'Módulos';
+$_['back'] = 'Voltar';
+$_['warning_clear'] = 'Cuidado! Essa ação irá apagar todas as configurações anteriores!';
+$_['warning_clear_tags'] = 'Cuidado! Essa ação irá apagar todas as configurações anteriores!';
+$_['categories'] = 'Categorias:';
+$_['products'] = 'Produtos:';
+$_['generate'] = 'Generar';
+$_['error_permission'] = 'Permissão Negada!  Você não tem autorização para alterar esse módulo!';
+$_['manufacturers'] = 'Fabricantes';
+$_['template'] = 'Tema:';
+$_['available_category_tags'] = 'Tags Disponíveis: [categoria_nome]';
+$_['available_product_tags'] = 'Tags Disponíveis: [produto_nome], [modelo_nome], [fabricante_nome]';
+$_['available_manufacturer_tags'] = 'Tags Disponíveis: [fabricantes_nome]';
+$_['available_meta_tags'] = 'Tags Disponíveis: [produto_nome], [modelo_nome], [fabricante_nome], [categoria_nome]';
+$_['available_tags_tags'] = 'Tags Disponíveis: [produto_nome], [modelo_nome], [fabricante_nome], [categoria_nome]';
+$_['meta_keywords'] = 'Meta keywords:';
+$_['add_from_yahoo'] = 'Adicionar termos do yahoo.  Extração será feita baseada na descrição de cada produto.';
+$_['your_yahoo_id'] = 'Sua conta no Yahoo';
+$_['get_yahoo_id'] = 'Clique <a href="http://developer.yahoo.com/wsregapp/" target="_blank">aqui</a> para acessar outra conta.';
+$_['enter_yahoo_id'] = 'Entre com sua conta Yahoo se desejar usar o serviço de extração Yahoo!';
+$_['curl_not_enabled'] = 'Habilite extensão cURL se desejar usar o serviço de extração Yahoo!';
+$_['tags'] = 'Tags';
+$_['source_language'] = 'Idioma';
