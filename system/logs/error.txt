@@ -21,3 +21,384 @@
 2013-01-04 19:03:42 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
 2013-01-04 20:17:15 - PagSeguro: Parâmetros de notificação inválidos.
 2013-01-04 20:17:19 - PagSeguro: Parâmetros de notificação inválidos.
+2013-01-06 1:26:41 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-06 1:26:41 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-06 1:26:41 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-06 1:26:41 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-06 1:26:41 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-06 1:26:41 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-06 9:18:52 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-06 9:18:52 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-06 9:18:52 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-06 9:18:52 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-06 9:18:52 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-06 9:18:52 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-06 18:52:16 - PHP Notice:  Undefined index:  image in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 385
+2013-01-06 18:52:16 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 392
+2013-01-06 18:52:16 - PHP Notice:  Undefined index:  title in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 394
+2013-01-06 18:52:16 - PHP Notice:  Undefined index:  author in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 395
+2013-01-06 18:52:16 - PHP Notice:  Undefined index:  created in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 396
+2013-01-06 18:52:16 - PHP Notice:  Undefined index:  description in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 397
+2013-01-06 18:52:16 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 398
+2013-01-06 20:25:53 - PHP Notice:  Undefined index:  image in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 385
+2013-01-06 20:25:53 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 392
+2013-01-06 20:25:53 - PHP Notice:  Undefined index:  title in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 394
+2013-01-06 20:25:53 - PHP Notice:  Undefined index:  author in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 395
+2013-01-06 20:25:53 - PHP Notice:  Undefined index:  created in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 396
+2013-01-06 20:25:53 - PHP Notice:  Undefined index:  description in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 397
+2013-01-06 20:25:53 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 398
+2013-01-07 3:36:23 - PHP Notice:  Undefined index:  image in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 385
+2013-01-07 3:36:23 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 392
+2013-01-07 3:36:23 - PHP Notice:  Undefined index:  title in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 394
+2013-01-07 3:36:23 - PHP Notice:  Undefined index:  author in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 395
+2013-01-07 3:36:23 - PHP Notice:  Undefined index:  created in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 396
+2013-01-07 3:36:23 - PHP Notice:  Undefined index:  description in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 397
+2013-01-07 3:36:23 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 398
+2013-01-07 5:01:07 - PHP Notice:  Undefined index:  image in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 385
+2013-01-07 5:01:07 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 392
+2013-01-07 5:01:07 - PHP Notice:  Undefined index:  title in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 394
+2013-01-07 5:01:07 - PHP Notice:  Undefined index:  author in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 395
+2013-01-07 5:01:07 - PHP Notice:  Undefined index:  created in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 396
+2013-01-07 5:01:07 - PHP Notice:  Undefined index:  description in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 397
+2013-01-07 5:01:07 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 398
+2013-01-07 8:59:32 - PHP Notice:  Undefined index:  image in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 385
+2013-01-07 8:59:32 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 392
+2013-01-07 8:59:32 - PHP Notice:  Undefined index:  title in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 394
+2013-01-07 8:59:32 - PHP Notice:  Undefined index:  author in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 395
+2013-01-07 8:59:32 - PHP Notice:  Undefined index:  created in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 396
+2013-01-07 8:59:32 - PHP Notice:  Undefined index:  description in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 397
+2013-01-07 8:59:32 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 398
+2013-01-07 13:13:57 - PHP Notice:  Undefined index:  image in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 385
+2013-01-07 13:13:57 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 392
+2013-01-07 13:13:57 - PHP Notice:  Undefined index:  title in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 394
+2013-01-07 13:13:57 - PHP Notice:  Undefined index:  author in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 395
+2013-01-07 13:13:57 - PHP Notice:  Undefined index:  created in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 396
+2013-01-07 13:13:57 - PHP Notice:  Undefined index:  description in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 397
+2013-01-07 13:13:57 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 398
+2013-01-07 13:18:08 - PHP Notice:  Undefined index:  image in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 385
+2013-01-07 13:18:08 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 392
+2013-01-07 13:18:08 - PHP Notice:  Undefined index:  title in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 394
+2013-01-07 13:18:08 - PHP Notice:  Undefined index:  author in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 395
+2013-01-07 13:18:08 - PHP Notice:  Undefined index:  created in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 396
+2013-01-07 13:18:08 - PHP Notice:  Undefined index:  description in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 397
+2013-01-07 13:18:08 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 398
+2013-01-07 13:22:18 - PHP Notice:  Undefined index:  image in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 385
+2013-01-07 13:22:18 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 392
+2013-01-07 13:22:18 - PHP Notice:  Undefined index:  title in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 394
+2013-01-07 13:22:18 - PHP Notice:  Undefined index:  author in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 395
+2013-01-07 13:22:18 - PHP Notice:  Undefined index:  created in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 396
+2013-01-07 13:22:18 - PHP Notice:  Undefined index:  description in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 397
+2013-01-07 13:22:18 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 398
+2013-01-07 13:26:28 - PHP Notice:  Undefined index:  image in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 385
+2013-01-07 13:26:28 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 392
+2013-01-07 13:26:28 - PHP Notice:  Undefined index:  title in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 394
+2013-01-07 13:26:28 - PHP Notice:  Undefined index:  author in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 395
+2013-01-07 13:26:28 - PHP Notice:  Undefined index:  created in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 396
+2013-01-07 13:26:28 - PHP Notice:  Undefined index:  description in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 397
+2013-01-07 13:26:28 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 398
+2013-01-07 13:30:38 - PHP Notice:  Undefined index:  image in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 385
+2013-01-07 13:30:38 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 392
+2013-01-07 13:30:38 - PHP Notice:  Undefined index:  title in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 394
+2013-01-07 13:30:38 - PHP Notice:  Undefined index:  author in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 395
+2013-01-07 13:30:38 - PHP Notice:  Undefined index:  created in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 396
+2013-01-07 13:30:38 - PHP Notice:  Undefined index:  description in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 397
+2013-01-07 13:30:38 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 398
+2013-01-07 13:34:49 - PHP Notice:  Undefined index:  image in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 385
+2013-01-07 13:34:49 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 392
+2013-01-07 13:34:49 - PHP Notice:  Undefined index:  title in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 394
+2013-01-07 13:34:49 - PHP Notice:  Undefined index:  author in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 395
+2013-01-07 13:34:49 - PHP Notice:  Undefined index:  created in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 396
+2013-01-07 13:34:49 - PHP Notice:  Undefined index:  description in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 397
+2013-01-07 13:34:49 - PHP Notice:  Undefined index:  article_id in /home/bemsexy/public_html/vqmod/vqcache/vq2-catalog_controller_product_product.php on line 398
+2013-01-07 21:56:13 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-07 21:56:13 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-07 21:56:13 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-07 21:56:13 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-08 4:17:08 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-08 4:17:08 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-08 4:17:08 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-08 4:17:08 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-08 4:17:08 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-08 4:17:08 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-08 10:54:25 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-08 10:54:25 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-08 10:54:25 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-08 10:54:25 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-08 10:54:25 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-08 10:54:25 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-08 18:42:30 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-08 18:42:30 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-08 18:42:30 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-08 18:42:30 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-08 18:42:30 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-08 18:42:30 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-11 3:19:08 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-11 3:19:08 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-11 3:19:08 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-11 3:19:08 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-11 3:19:08 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-11 3:19:08 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-12 12:47:26 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-12 12:47:26 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-12 18:00:36 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-12 18:00:36 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-12 18:00:36 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-12 18:00:36 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-12 18:00:36 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-12 18:00:36 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-12 18:13:43 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-12 18:13:43 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-12 18:13:43 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-12 18:13:43 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-12 18:13:43 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-12 18:13:43 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-12 18:33:59 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-12 18:33:59 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-12 18:33:59 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-12 18:33:59 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-12 18:33:59 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-12 18:33:59 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-12 18:56:07 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-12 18:56:07 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-12 18:56:07 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-12 18:56:07 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-12 18:56:07 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-12 18:56:07 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-12 18:56:07 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-12 18:56:07 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-12 18:56:07 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-12 18:56:07 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-12 18:56:07 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-12 18:56:07 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-13 0:37:35 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-13 0:37:35 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-13 0:37:35 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-13 0:37:35 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-13 0:37:35 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-13 0:37:35 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-13 3:33:27 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-13 3:33:27 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-13 3:33:27 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-13 3:33:27 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-13 3:33:27 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-13 3:33:27 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-14 0:05:17 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:47) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-14 0:05:17 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:47) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-14 0:05:17 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-14 0:05:17 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:47) in /home/bemsexy/public_html/index.php on line 177
+2013-01-14 0:05:17 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-14 0:05:17 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:47) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-14 1:12:50 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-14 1:12:50 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-14 1:12:50 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-14 1:12:50 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-14 1:12:50 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-14 1:12:50 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-14 2:06:06 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-14 2:06:06 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-14 4:41:32 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-14 4:41:32 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-14 4:41:32 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-14 4:41:32 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-14 4:41:32 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-14 4:41:32 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-14 21:19:15 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-14 21:19:15 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-14 21:19:15 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-14 21:19:15 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-14 21:19:15 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-14 21:19:15 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-14 21:30:53 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 400376 of 401408 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-14 21:30:54 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 147457 of 147456 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-14 21:30:59 - PHP Warning:  unlink(/home/bemsexy/public_html/system/cache/cache.product.2.0.1.7a1f2b4c85a3b710071273f7b9fca92a.1357951394) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/bemsexy/public_html/system/library/cache.php on line 18
+2013-01-14 21:31:00 - PHP Warning:  unlink(/home/bemsexy/public_html/system/cache/cache.product.2.0.1.7caa2058dde851aa263246823194b2d8.1357951395) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/bemsexy/public_html/system/library/cache.php on line 18
+2013-01-17 2:04:17 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-17 2:04:17 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-17 2:04:17 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-17 2:04:17 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-17 2:04:17 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-17 2:04:17 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-18 17:40:19 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-18 17:40:19 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-18 17:40:19 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-18 17:40:19 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-18 17:40:19 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-18 17:40:19 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-20 18:05:53 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-20 18:05:53 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-20 18:06:26 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-20 18:06:26 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-20 18:06:26 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-20 18:06:26 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unk2013-01-21 4:12:21 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 32765 of 32768 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 4:12:23 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(/tmp/sess_407de6b638ccc2de9c3b38fa97486bf0, O_RDWR) failed: Disk quota exceeded (122) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-21 4:12:23 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:104) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-21 4:12:23 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:104) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-21 4:12:23 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:104) in /home/bemsexy/public_html/index.php on line 177
+2013-01-21 4:12:23 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:104) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-21 4:12:23 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 32765 of 32768 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 4:12:24 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 32765 of 32768 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 4:12:25 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:12:25 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:12:27 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:12:27 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:18:01 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:18:01 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:20:07 - PHP Warning:  fopen(/home/bemsexy/public_html/system/cache/cache.product.total.2.0.1.4bccea5cb95313ef0c74448b6a8555f8.1358745607) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Disk quota exceeded in /home/bemsexy/public_html/system/library/cache.php on line 32
+2013-01-21 4:20:07 - PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 34
+2013-01-21 4:20:07 - PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 36
+2013-01-21 4:20:13 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:20:13 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:20:14 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:20:14 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:20:15 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:20:15 - 2013-01-21 4:24:10 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 40067 of 40960 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 4:24:14 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:24:14 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:24:14 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:24:14 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:24:16 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:24:16 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:24:19 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:24:19 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:24:20 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:24:20 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:24:21 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:24:21 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:24:22 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:24:22 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:24:24 - PHP Warning:  fopen(/home/bemsexy/public_html/system/cache/cache.product.total.2.0.1.00efd97bb965e50e7229b10ad1cdba4c.1358745864) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Disk quota exceeded in /home/bemsexy/public_html/system/library/cache.php on line 32
+2013-01-21 4:24:24 - PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 34
+2013-01-21 4:24:24 - PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 36
+2013-01-21 4:24:25 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:24:25 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:25:36 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:25:36 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:25:44 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:25:44 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:25:50 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:25:50 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 4:25:53 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 4:25:53 - PHP Warning:  Unknown: Failed to wr2013-01-21 8:34:59 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 4096 of 4096 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 8:35:00 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 8:35:00 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 8:37:14 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 8:37:14 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 8:37:37 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 8:37:37 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 8:40:59 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 8:40:59 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 8:41:06 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 8:41:06 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 8:41:06 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 8:41:06 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 8:41:25 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 8:41:25 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 8:42:42 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 8:42:42 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 8:42:42 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 8:42:42 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 8:42:43 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 8:42:43 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 8:43:11 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 8:43:11 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 8:43:11 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 8:43:11 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 8:44:14 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 8:44:14 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 8:45:11 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 8:45:11 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setti2013-01-21 12:59:29 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 28650 of 28672 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 12:59:38 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 12:59:38 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 12:59:47 - PHP Warning:  fopen(/home/bemsexy/public_html/system/cache/cache.product.total.2.0.1.63081273088591c1a743ab6dc112a6d0.1358776787) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Disk quota exceeded in /home/bemsexy/public_html/system/library/cache.php on line 32
+2013-01-21 12:59:47 - PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 34
+2013-01-21 12:59:47 - PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 36
+2013-01-21 12:59:47 - PHP Warning:  fopen(/home/bemsexy/public_html/system/cache/cache.product.total.2.0.1.63081273088591c1a743ab6dc112a6d0.1358776787) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Disk quota exceeded in /home/bemsexy/public_html/system/library/cache.php on line 32
+2013-01-21 12:59:47 - PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 34
+2013-01-21 12:59:47 - PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 36
+2013-01-21 13:02:28 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 13:02:28 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 13:02:45 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 13:02:45 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 13:04:30 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 13:04:30 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 13:06:22 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 13:06:22 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 13:09:42 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 13:09:42 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 13:13:09 - PHP Warning:  fopen(/home/bemsexy/public_html/system/cache/cache.product.total.2.0.1.563bf5b075da9f1acbb607b7bc2b0f19.1358777589) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Disk quota exceeded in /home/bemsexy/public_html/system/library/cache.php on line 32
+2013-01-21 13:13:09 - PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 34
+2013-01-21 13:13:09 - PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 36
+2013-01-21 13:13:09 - PHP Warning:  fopen(/home/bemsexy/public_html/system/cache/cache.product.total.2.0.1.fc098843d40917481877365223f7fdf3.1358777589) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Disk quota exceeded in /home/bemsexy/public_html/system/library/cache.php on li2013-01-21 16:28:21 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 8173 of 8192 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 16:28:39 - PHP Warning:  fopen(/home/bemsexy/public_html/system/cache/cache.product.total.2.0.1.b0278424d300a62cea6b26bad279ae99.1358789319) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Disk quota exceeded in /home/bemsexy/public_html/system/library/cache.php on line 32
+2013-01-21 16:28:39 - PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 34
+2013-01-21 16:28:39 - PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 36
+2013-01-21 16:28:39 - PHP Warning:  fopen(/home/bemsexy/public_html/system/cache/cache.product.total.2.0.1.0724596c2c62668ea073d400ca7609bf.1358789319) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Disk quota exceeded in /home/bemsexy/public_html/system/library/cache.php on line 32
+2013-01-21 16:28:39 - PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 34
+2013-01-21 16:28:39 - PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 36
+2013-01-21 16:28:39 - PHP Warning:  fopen(/home/bemsexy/public_html/system/cache/cache.product.total.2.0.1.1b28b95ebb1dee3a506f0071c52a60f6.1358789319) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Disk quota exceeded in /home/bemsexy/public_html/system/library/cache.php on line 32
+2013-01-21 16:28:39 - PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 34
+2013-01-21 16:28:39 - PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 36
+2013-01-21 16:29:35 - PHP Warning:  fopen(/home/bemsexy/public_html/system/cache/cache.product.total.2.0.1.f02a847b0e5c5b484063818f4a9cf0fd.1358789375) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Disk quota exceeded in /home/bemsexy/public_html/system/library/cache.php on line 32
+2013-01-21 16:29:35 - PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 34
+2013-01-21 16:29:35 - PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 36
+2013-01-21 16:29:55 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 16:29:55 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 16:30:52 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 16:30:52 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 16:31:02 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 16:31:02 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 16:31:19 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 16:31:19 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 16:31:54 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 16:31:54 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_2013-01-21 20:26:51 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 20475 of 20480 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 20:27:07 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 20475 of 20480 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 20:27:10 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 20:27:10 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 20:27:27 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 20475 of 20480 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 20:27:29 - PHP Warning:  fopen(/home/bemsexy/public_html/system/cache/cache.product.total.2.0.1.d2fa81650724d39eda22a27e0a48c8b3.1358803649) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Disk quota exceeded in /home/bemsexy/public_html/system/library/cache.php on line 32
+2013-01-21 20:27:29 - PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 34
+2013-01-21 20:27:29 - PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 36
+2013-01-21 20:27:32 - PHP Warning:  fopen(/home/bemsexy/public_html/system/cache/cache.product.2.0.1.d2fa81650724d39eda22a27e0a48c8b3.1358803652) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Disk quota exceeded in /home/bemsexy/public_html/system/library/cache.php on line 32
+2013-01-21 20:27:32 - PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 34
+2013-01-21 20:27:32 - PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 36
+2013-01-21 20:27:36 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 1911 of 4096 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 20:27:39 - PHP Warning:  fopen(/home/bemsexy/public_html/system/cache/cache.product.2.0.1.aaec800160f32e2b270f8e216a39f80c.1358803659) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Disk quota exceeded in /home/bemsexy/public_html/system/library/cache.php on line 32
+2013-01-21 20:27:39 - PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 34
+2013-01-21 20:27:39 - PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/bemsexy/public_html/system/library/cache.php on line 36
+2013-01-21 20:27:41 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2013-01-21 20:27:41 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2013-01-21 20:27:41 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 20475 of 20480 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 20:27:44 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 20475 of 20480 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 20:27:46 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 20475 of 20480 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 20:27:47 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 20475 of 20480 bytes in /home/bemsexy/public_html/system/library/ca2013-01-21 20:49:21 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 20475 of 20480 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 20:49:26 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 1911 of 4096 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 20:52:38 - PHP Notice:  Undefined variable: entry_conta_cedente in /home/bemsexy/public_html/grupoqian/view/template/payment/boleto_itau.tpl on line 99
+2013-01-21 20:52:38 - PHP Notice:  Undefined variable: boleto_itau_conta_cedente in /home/bemsexy/public_html/grupoqian/view/template/payment/boleto_itau.tpl on line 100
+2013-01-21 20:52:38 - PHP Notice:  Undefined variable: entry_nosso_numero2 in /home/bemsexy/public_html/grupoqian/view/template/payment/boleto_itau.tpl on line 140
+2013-01-21 20:52:38 - PHP Notice:  Undefined variable: boleto_itau_nosso_numero2 in /home/bemsexy/public_html/grupoqian/view/template/payment/boleto_itau.tpl on line 141
+2013-01-21 20:52:38 - PHP Notice:  Undefined variable: entry_nosso_numero3 in /home/bemsexy/public_html/grupoqian/view/template/payment/boleto_itau.tpl on line 144
+2013-01-21 20:52:38 - PHP Notice:  Undefined variable: boleto_itau_nosso_numero3 in /home/bemsexy/public_html/grupoqian/view/template/payment/boleto_itau.tpl on line 145
+2013-01-21 20:52:38 - PHP Notice:  Undefined variable: entry_nosso_numero_const1 in /home/bemsexy/public_html/grupoqian/view/template/payment/boleto_itau.tpl on line 148
+2013-01-21 20:52:38 - PHP Notice:  Undefined variable: boleto_itau_nosso_numero_const1 in /home/bemsexy/public_html/grupoqian/view/template/payment/boleto_itau.tpl on line 149
+2013-01-21 20:52:38 - PHP Notice:  Undefined variable: entry_nosso_numero_const2 in /home/bemsexy/public_html/grupoqian/view/template/payment/boleto_itau.tpl on line 152
+2013-01-21 20:52:38 - PHP Notice:  Undefined variable: boleto_itau_nosso_numero_const2 in /home/bemsexy/public_html/grupoqian/view/template/payment/boleto_itau.tpl on line 153
+2013-01-21 21:02:14 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-21 21:02:14 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-21 21:02:14 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-21 21:02:14 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-21 21:02:14 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-21 21:02:14 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-21 21:38:00 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 32765 of 32768 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 22:39:56 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 3805 of 4096 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 22:42:15 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 23395 of 24576 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 22:42:21 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 28650 of 28672 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 22:42:29 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 8173 of 8192 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 22:42:41 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 4096 of 4096 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-21 22:42:51 - PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 16069 of 16384 bytes in /home/bemsexy/public_html/system/library/cache.php on line 11
+2013-01-22 3:51:39 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-22 3:51:39 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/system/library/session.php on line 11
+2013-01-22 3:51:39 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/index.php on line 177
+2013-01-22 3:51:39 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/index.php on line 177
+2013-01-22 3:51:39 - PHP Notice:  Undefined index:  HTTP_HOST in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-22 3:51:39 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bemsexy/public_html/index.php:49) in /home/bemsexy/public_html/vqmod/vqcache/vq2-system_library_currency.php on line 45
+2013-01-22 9:51:57 - PHP Notice:  Undefined index:  HTTP_REFERER in /home/bemsexy/public_html/catalog/controller/checkout/cart.php on line 403

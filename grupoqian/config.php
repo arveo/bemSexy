@@ -1,4 +1,5 @@
 <?php
+/* Configuracoes WEB 
 // HTTP
 define('HTTP_SERVER', 'http://www.bemsexy.com.br/grupoqian/');
 define('HTTP_CATALOG', 'http://www.bemsexy.com.br/');
@@ -21,6 +22,31 @@ define('DIR_CACHE', '/home/bemsexy/public_html/system/cache/');
 define('DIR_DOWNLOAD', '/home/bemsexy/public_html/download/');
 define('DIR_LOGS', '/home/bemsexy/public_html/system/logs/');
 define('DIR_CATALOG', '/home/bemsexy/public_html/catalog/');
+*/
+
+/* Configuracoes LOCAL */
+// HTTP
+define('HTTP_SERVER', 'http://dev.bemsexy/grupoqian/');
+define('HTTP_CATALOG', 'http://dev.bemsexy/');
+define('HTTP_IMAGE', 'http://dev.bemsexy/image/');
+
+// HTTPS
+define('HTTPS_SERVER', 'https://dev.bemsexy/grupoqian/');
+define('HTTPS_CATALOG', 'http://dev.bemsexy/');
+define('HTTPS_IMAGE', 'http://dev.bemsexy/image/');
+
+// DIR
+define('DIR_APPLICATION', '/Applications/MAMP/htdocs/bemSexy/grupoqian/');
+define('DIR_SYSTEM', '/Applications/MAMP/htdocs/bemSexy/system/');
+define('DIR_DATABASE', '/Applications/MAMP/htdocs/bemSexy/system/database/');
+define('DIR_LANGUAGE', '/Applications/MAMP/htdocs/bemSexy/grupoqian/language/');
+define('DIR_TEMPLATE', '/Applications/MAMP/htdocs/bemSexy/grupoqian/view/template/');
+define('DIR_CONFIG', '/Applications/MAMP/htdocs/bemSexy/system/config/');
+define('DIR_IMAGE', '/Applications/MAMP/htdocs/bemSexy/image/');
+define('DIR_CACHE', '/Applications/MAMP/htdocs/bemSexy/system/cache/');
+define('DIR_DOWNLOAD', '/Applications/MAMP/htdocs/bemSexy/download/');
+define('DIR_LOGS', '/Applications/MAMP/htdocs/bemSexy/system/logs/');
+define('DIR_CATALOG', '/Applications/MAMP/htdocs/bemSexy/catalog/');
 
 // DB
 define('DB_DRIVER', 'mysql');
