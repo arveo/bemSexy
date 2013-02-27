@@ -29,7 +29,7 @@ define('HTTP_IMAGE', 'http://dev.bemsexy/image/');
 define('HTTP_ADMIN', 'http://dev.bemsexy/grupoqian/');
 
 // HTTPS
-define('HTTPS_SERVER', 'https://dev.bemsexy/');
+define('HTTPS_SERVER', 'http://dev.bemsexy/');
 define('HTTPS_IMAGE', 'http://dev.bemsexy/image/');
 
 // DIR
